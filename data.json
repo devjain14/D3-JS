@@ -1,0 +1,42 @@
+[
+    {
+        "name": "John",
+        "age": 30,
+        "city": "New York"
+    },
+    {
+        "name": "Warner",
+        "age": 16,
+        "city": "California"
+    },
+    {
+        "name": "Bros",
+        "age": 50,
+        "city": "New York"
+    },
+    {
+        "name": "Carter",
+        "age": 40,
+        "city": "New York"
+    },
+    {
+        "name": "Bruce",
+        "age": 70,
+        "city": "California"
+    },
+    {
+        "name": "Wayne",
+        "age": 20,
+        "city": "California"
+    },
+    {
+        "name": "James",
+        "age": 10,
+        "city": "California"
+    },
+    {
+        "name": "Henry",
+        "age": 50,
+        "city": "California"
+    }
+]
